@@ -1,0 +1,24 @@
+{
+  "timestamps": [
+    {
+      "level": 2,
+      "text": "Introduction",
+      "timestamp": "00:00",
+      "seconds": 0
+    },
+    {
+      "level": 2,
+      "text": "First Section",
+      "timestamp": "01:10",
+      "seconds": 70
+    },
+    {
+      "level": 2,
+      "text": "Second Section",
+      "timestamp": "02:10",
+      "seconds": 130
+    }
+  ],
+  "count": 3,
+  "generated_at": "2025-06-03T10:16:19.489873"
+}

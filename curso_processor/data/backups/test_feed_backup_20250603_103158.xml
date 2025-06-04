@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>Updated Test Feed</title>
+    <description>This is an updated test feed</description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 03 Jun 2025 10:31:58 </lastBuildDate>
+    <generator>Curso Processor XML Generator</generator>
+    <itunes:author>Test Author</itunes:author>
+    <itunes:category text="Education"/>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:owner>
+      <itunes:name>Test Author</itunes:name>
+      <itunes:email>test@example.com</itunes:email>
+    </itunes:owner>
+    <image>
+      <url>https://example.com/updated_image.jpg</url>
+      <title>Updated Test Feed</title>
+      <link>#</link>
+    </image>
+    <itunes:image href="https://example.com/image.jpg"/>
+    <item>
+      <title>Comprehensive Test Course</title>
+      <description># Timestamps - Comprehensive Test Course
+## 1. Audio
+   00:00 module_1.mp3
+   05:00 module_2.mp3
+   10:00 module_3.mp3
+   15:00 module_4.mp3
+   20:00 module_5.mp3
+</description>
+      <enclosure url="https://example.com/test_course.mp3" type="audio/mpeg"/>
+      <guid isPermaLink="false">4aaa4c8e-21fd-5418-83c9-f35088c958af</guid>
+      <pubDate>Tue, 03 Jun 2025 10:31:58 </pubDate>
+      <itunes:duration>01:30:00</itunes:duration>
+      <itunes:author>Test Author</itunes:author>
+    </item>
+  </channel>
+</rss>

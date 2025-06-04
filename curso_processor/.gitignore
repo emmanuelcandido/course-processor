@@ -1,0 +1,49 @@
+# Arquivos de ambiente
+.env
+.env.*
+!.env.example
+
+# Credenciais
+*.json
+credentials.py
+config/credentials.json
+
+# Diretórios de dados
+data/audio/*
+data/transcriptions/*
+data/processed/*
+data/tts/*
+data/xml/*
+!data/audio/.gitkeep
+!data/transcriptions/.gitkeep
+!data/processed/.gitkeep
+!data/tts/.gitkeep
+!data/xml/.gitkeep
+
+# Cache Python
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Ambiente virtual
+venv/
+env/
+ENV/
+
+# Logs
+*.log
+logs/
+
+# Arquivos temporários
+*.tmp
+*.temp
+.DS_Store
+
+# Arquivos de IDE
+.idea/
+.vscode/
+*.swp
+*.swo

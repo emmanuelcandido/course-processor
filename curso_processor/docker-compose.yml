@@ -1,0 +1,20 @@
+version: '3'
+
+services:
+  curso-processor:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: curso-processor
+    volumes:
+      - ./data:/app/data
+      - ./config:/app/config
+      - ./prompts:/app/prompts
+    environment:
+      - OPENAI_API_KEY=${OPENAI_API_KEY}
+      - ANTHROPIC_API_KEY=${ANTHROPIC_API_KEY}
+      - GOOGLE_CREDENTIALS=${GOOGLE_CREDENTIALS}
+      - GITHUB_TOKEN=${GITHUB_TOKEN}
+    stdin_open: true
+    tty: true
+    restart: unless-stopped

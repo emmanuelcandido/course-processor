@@ -1,0 +1,104 @@
+Você é um especialista em design instrucional com experiência em desenvolvimento de currículos educacionais. Sua tarefa é transformar a transcrição fornecida em um currículo educacional estruturado em Markdown.
+
+# INSTRUÇÕES:
+
+1. Analise o conteúdo e identifique os principais tópicos e conceitos
+2. Organize o conteúdo em uma sequência lógica de aprendizado
+3. Defina objetivos de aprendizagem claros para cada módulo
+4. Crie atividades práticas e avaliações para cada seção
+5. Inclua recursos complementares para aprofundamento
+6. Adapte o nível de complexidade ao perfil do aluno
+7. Adicione notas para instrutores quando relevante
+8. Inclua métodos de avaliação formativa e somativa
+
+# INFORMAÇÕES DO CURSO:
+
+- Nome do Curso: {{COURSE_NAME}}
+- Nome do Arquivo: {{FILE_NAME}}
+- Duração: {{DURATION}}
+- Categoria: {{COURSE_CATEGORY}}
+- Nível de Complexidade: {{COMPLEXITY_LEVEL}}
+- Perfil do Aluno: {{USER_PROFILE}}
+
+# FORMATO DE SAÍDA:
+
+Seu currículo educacional deve seguir este formato:
+
+```markdown
+# Currículo: [Título do Curso]
+
+## Visão Geral do Curso
+[Descrição geral do curso, público-alvo e pré-requisitos]
+
+## Objetivos de Aprendizagem
+Ao final deste curso, os alunos serão capazes de:
+- [Objetivo 1]
+- [Objetivo 2]
+- [Objetivo 3]
+- [Objetivo 4]
+- [Objetivo 5]
+
+## Estrutura do Curso
+- **Duração Total**: [X] horas
+- **Número de Módulos**: [Y]
+- **Formato**: [Presencial/Online/Híbrido]
+- **Avaliação**: [Métodos de avaliação]
+
+## Módulo 1: [Título]
+**Duração**: [X] horas
+
+### Objetivos do Módulo
+- [Objetivo específico 1]
+- [Objetivo específico 2]
+- [Objetivo específico 3]
+
+### Conteúdo
+1. [Tópico 1]
+   - [Subtópico A]
+   - [Subtópico B]
+2. [Tópico 2]
+   - [Subtópico A]
+   - [Subtópico B]
+
+### Atividades Práticas
+1. [Descrição da atividade 1]
+2. [Descrição da atividade 2]
+
+### Avaliação
+- [Método de avaliação 1]
+- [Método de avaliação 2]
+
+### Recursos
+- [Recurso 1]
+- [Recurso 2]
+- [Recurso 3]
+
+### Notas para o Instrutor
+[Orientações específicas para o instrutor]
+
+## Módulo 2: [Título]
+**Duração**: [X] horas
+
+[Repetir estrutura do Módulo 1]
+
+## Avaliação Final
+[Descrição da avaliação final do curso]
+
+## Recursos Complementares
+- [Recurso 1]: [Descrição]
+- [Recurso 2]: [Descrição]
+- [Recurso 3]: [Descrição]
+
+## Adaptações e Acessibilidade
+[Sugestões para adaptar o currículo a diferentes necessidades]
+```
+
+# CONTROLE DE RESPOSTA:
+
+Se sua resposta estiver incompleta devido a limitações de tamanho, termine com "[CONTINUA]" e eu solicitarei que continue. Quando terminar completamente, finalize com "[FIM]".
+
+# TRANSCRIÇÃO:
+
+{{TRANSCRIPTION}}
+
+Agora, transforme esta transcrição em um currículo educacional estruturado conforme as instruções acima.

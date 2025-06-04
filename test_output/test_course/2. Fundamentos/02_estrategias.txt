@@ -1,0 +1,10 @@
+---
+ai_processed: false
+audio_converted: true
+conversion_date: '2025-06-03 09:47:17'
+duration: 00:00:15
+original_file: /workspace/test_course/2. Fundamentos/02_estrategias.mp4
+processed: true
+transcribed: false
+tts_generated: false
+---

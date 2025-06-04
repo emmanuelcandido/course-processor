@@ -1,0 +1,10 @@
+---
+ai_processed: false
+audio_converted: true
+conversion_date: '2025-06-03 09:47:16'
+duration: 00:00:08
+original_file: "/workspace/test_course/1. Introdu\xE7\xE3o/02_overview.mp4"
+processed: true
+transcribed: false
+tts_generated: false
+---

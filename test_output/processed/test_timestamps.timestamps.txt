@@ -1,0 +1,7 @@
+00:00   Introduction
+01:30   First Section
+02:15     Subsection 1.1
+03:45     Subsection 1.2
+05:00   Second Section
+06:30     Subsection 2.1
+10:00   Conclusion

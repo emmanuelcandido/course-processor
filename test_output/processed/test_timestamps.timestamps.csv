@@ -1,0 +1,8 @@
+timestamp,seconds,level,text
+00:00,0,2,Introduction
+01:30,90,2,First Section
+02:15,135,3,Subsection 1.1
+03:45,225,3,Subsection 1.2
+05:00,300,2,Second Section
+06:30,390,3,Subsection 2.1
+10:00,600,2,Conclusion

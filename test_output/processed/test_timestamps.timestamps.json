@@ -1,0 +1,48 @@
+{
+  "timestamps": [
+    {
+      "level": 2,
+      "text": "Introduction",
+      "timestamp": "00:00",
+      "seconds": 0
+    },
+    {
+      "level": 2,
+      "text": "First Section",
+      "timestamp": "01:30",
+      "seconds": 90
+    },
+    {
+      "level": 3,
+      "text": "Subsection 1.1",
+      "timestamp": "02:15",
+      "seconds": 135
+    },
+    {
+      "level": 3,
+      "text": "Subsection 1.2",
+      "timestamp": "03:45",
+      "seconds": 225
+    },
+    {
+      "level": 2,
+      "text": "Second Section",
+      "timestamp": "05:00",
+      "seconds": 300
+    },
+    {
+      "level": 3,
+      "text": "Subsection 2.1",
+      "timestamp": "06:30",
+      "seconds": 390
+    },
+    {
+      "level": 2,
+      "text": "Conclusion",
+      "timestamp": "10:00",
+      "seconds": 600
+    }
+  ],
+  "count": 7,
+  "generated_at": "2025-06-03T10:16:48.806811"
+}

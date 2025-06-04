@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>Test Podcast Feed</title>
+    <description>This is a test podcast feed</description>
+    <language>pt-BR</language>
+    <itunes:author>Test Author</itunes:author>
+    <itunes:category text="Education"/>
+    <itunes:explicit>no</itunes:explicit>
+    <item>
+      <title>Test Episode</title>
+      <description>This is a test episode</description>
+      <enclosure url="https://example.com/test.mp3" type="audio/mpeg"/>
+    </item>
+  </channel>
+</rss>

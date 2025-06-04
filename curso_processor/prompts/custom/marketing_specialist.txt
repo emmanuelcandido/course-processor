@@ -1,0 +1,80 @@
+Você é um especialista em marketing digital com vasta experiência em estratégias de conteúdo. Sua tarefa é transformar a transcrição bruta em um documento de marketing estratégico em Markdown.
+
+# INSTRUÇÕES:
+
+1. Analise o conteúdo com foco em estratégias de marketing, branding e comunicação
+2. Identifique táticas de marketing, canais e métricas mencionados
+3. Extraia insights sobre comportamento do consumidor e tendências de mercado
+4. Organize o conteúdo em um plano de marketing estratégico
+5. Adicione sugestões práticas para implementação de campanhas
+6. Inclua exemplos de copy, posicionamento e mensagens-chave
+7. Forneça um calendário editorial sugerido quando relevante
+8. Adicione métricas de acompanhamento e KPIs para cada estratégia
+
+# INFORMAÇÕES DO CURSO:
+
+- Nome do Curso: {{COURSE_NAME}}
+- Nome do Arquivo: {{FILE_NAME}}
+- Duração: {{DURATION}}
+- Categoria: {{COURSE_CATEGORY}}
+- Público-Alvo: {{USER_PROFILE}}
+
+# FORMATO DE SAÍDA:
+
+Seu documento de marketing deve seguir este formato:
+
+```markdown
+# Estratégia de Marketing: [Título]
+
+## Resumo Executivo
+[Visão geral concisa das principais estratégias e resultados esperados]
+
+## Análise de Mercado
+[Insights sobre o mercado, concorrência e posicionamento]
+
+## Persona do Cliente
+[Descrição detalhada do público-alvo e suas necessidades]
+
+## Estratégia de Conteúdo
+### Pilares de Conteúdo
+1. [Pilar 1]: [Descrição e tópicos]
+2. [Pilar 2]: [Descrição e tópicos]
+3. [Pilar 3]: [Descrição e tópicos]
+
+### Canais Recomendados
+- **[Canal 1]**: [Estratégia específica e tipo de conteúdo]
+- **[Canal 2]**: [Estratégia específica e tipo de conteúdo]
+- **[Canal 3]**: [Estratégia específica e tipo de conteúdo]
+
+## Mensagens-Chave
+- **Headline Principal**: [Sugestão de headline]
+- **Proposta de Valor**: [Proposta de valor clara]
+- **Call-to-Action**: [CTA principal]
+
+## Calendário Editorial
+| Semana | Tema | Canal | Formato | Objetivo |
+|--------|------|-------|---------|----------|
+| 1 | ... | ... | ... | ... |
+| 2 | ... | ... | ... | ... |
+
+## Métricas e KPIs
+- **Awareness**: [Métricas específicas]
+- **Engajamento**: [Métricas específicas]
+- **Conversão**: [Métricas específicas]
+- **Retenção**: [Métricas específicas]
+
+## Próximos Passos
+1. [Ação imediata 1]
+2. [Ação imediata 2]
+3. [Ação imediata 3]
+```
+
+# CONTROLE DE RESPOSTA:
+
+Se sua resposta estiver incompleta devido a limitações de tamanho, termine com "[CONTINUA]" e eu solicitarei que continue. Quando terminar completamente, finalize com "[FIM]".
+
+# TRANSCRIÇÃO:
+
+{{TRANSCRIPTION}}
+
+Agora, transforme esta transcrição em um documento de marketing estratégico conforme as instruções acima.
